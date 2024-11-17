@@ -28,6 +28,6 @@ Some of the resources used:
 - **Datadog Documentation**: [Datadog Documentation](https://www.datadoghq.com/blog/managing-datadog-with-terraform/)
 - **Terraform Datadog Provider Documentation**: [Terraform Datadog Provider](https://registry.terraform.io/providers/datadog/datadog/latest/docs)
 - **Terraform Azure Provider Documentation**: [Terraform Azure Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
-- **Azure Key Vault Documentation**: [Azure Key Vault Documentation](https://learn.microsoft.com/en-us/azure/key-vault/general/)
+- **Azure Key Vault Documentation**: [Azure Key Vault Documentation](https://learn.microsoft.com/en-us/azure/key-vault/general/overview)
 
 
